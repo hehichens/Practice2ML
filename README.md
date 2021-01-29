@@ -58,9 +58,9 @@ Pandas 是非常好用数据处理工具。
 
 ### 2.3 可视化
 
-- Matplotlib
-- Seaborn
-- Pyecharts
+- Matplotlib: [Matplotlib可视化最有价值的50个图表](https://www.jiqizhixin.com/articles/2019-01-15-11)
+- Seaborn: [seaborn可视化](https://www.cnblogs.com/hichens/p/13295559.html)
+- Pyecharts: [pyecharts(1)基本图](https://www.cnblogs.com/hichens/p/13531749.html)| [pyecharts(2)图的布局](https://www.cnblogs.com/hichens/p/13532017.html)| [pyecharts(3)配置](https://www.cnblogs.com/hichens/p/13533802.html)
 
 ## 3. 机器学习
 
