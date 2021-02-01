@@ -6,6 +6,8 @@
 
 [TOC]
 
+# 第一部分--理论知识
+
 ## 1. 基础
 
 
@@ -91,6 +93,8 @@ Pandas 是非常好用数据处理工具。
 - [花书](https://github.com/exacity/deeplearningbook-chinese/releases/download/v0.5-beta/dlbook_cn_v0.5-beta.pdf)
 - 《动手学习深度学习》
 
+# 第二部分--练习实战
+
 ## 5. 项目实战
 
 ### 5.1 机器学习
@@ -119,3 +123,5 @@ Pandas 是非常好用数据处理工具。
 ## 6. 作业提交方式
 
 将我的项目克隆到本地，自己将写好的代码上传到github，并将链接发送到群里。互相学习代码有利于提高代码能力。
+
+Enjoy It !
